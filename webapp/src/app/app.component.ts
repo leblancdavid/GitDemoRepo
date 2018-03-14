@@ -7,7 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
 
-  title = 'app';
+  title = 'app';HSFAA
+   do {
+     
+   } while (D
+  DESTRUCTIONFDA 
+SA);
 
   ngOnInit(): void {
     const test = 2;
